@@ -25,7 +25,7 @@ Install Pygame library using pip:
 pip install pygame
 
 Clone the Repository:
-git clone https://github.com/your/repository.git
+git clone https://github.com/neeamh/Space-Ship-Game.git
 
 Navigate to the Game Directory:
 cd spaceship-1v1-game
